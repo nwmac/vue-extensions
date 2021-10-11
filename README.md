@@ -1,4 +1,4 @@
-# vue-extenstions
+# vue-extensions
 
 Shows how to use WebPack module federation.
 
