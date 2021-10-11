@@ -32,7 +32,7 @@ Build and serve both the lib and app above.
 
 Open a browser to: http://127.0.0.1:8080/
 
-Click 'Load Extension'. This loads the extension library and presents 2 components available in the library - clicking on 'Lazy' will load the lazily-loaded component.
+Click 'Load Extension'. This loads the extension library and presents 2 components available in the library - clicking on 'Lazy' will load the lazily-loaded component - you'll see additonal network requests in the dev tools. The other 'Hello World' component is not lazy-loaded and loads when the extension is loaded.
 
 If you click 'Lazy', you'll see two clock widgets.
 
