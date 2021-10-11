@@ -9,18 +9,22 @@ To start:
 
 ## Build the example extension as a library:
 
+```
 cd vlib
 yarn install
 yarn lib
 yarn start
+```
 
 This will build as a Vuwe library and serve the built library on localhost:8001
 
 ## Build the example app:
 
+```
 cd hostapp
 yarn install
-yarn server
+yarn serve
+```
 
 ## How to use
 
