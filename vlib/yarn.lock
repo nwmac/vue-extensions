@@ -1344,7 +1344,7 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-5.0.0-beta.5.tgz#af6ed2133a6db9ab863fdd2886eb5ac80a71f1d0"
   integrity sha512-VaCWjAGCacH1YUau54+tVJ/2+hoCGb7BAdsKKBX9nhkTU5+dfXSDYPPUcxxebhFA0IEiXFD7wE76d9Pb8/sFTw==
 
-"@vue/cli-plugin-babel@~5.0.0":
+"@vue/cli-plugin-babel@5.0.0-beta.5":
   version "5.0.0-beta.5"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.0-beta.5.tgz#bc3a3271afca26b49fcebea5b83eefc81d0c0c0a"
   integrity sha512-SYFF9pMjkD8e4ovhZDGVgNwaD3avu+UY0yhywLjHFK1F/pbCTKGR5STLOvnAMmDaG9Q9acVZTuTVPE11POnk/Q==
@@ -1380,7 +1380,7 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.0-beta.5.tgz#12ef40d45f8b60469b6c33a1308d553d0ae55cfd"
   integrity sha512-2sascP+eptznskmCecB4SqjduwdVp0BLWlNL9chTM2T0WHEljju1g7xbMQZGYCeZWTgbVwE/CE2AOmArg3t29Q==
 
-"@vue/cli-service@5.0.0":
+"@vue/cli-service@5.0.0-beta.5":
   version "5.0.0-beta.5"
   resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-5.0.0-beta.5.tgz#9a95db9d0440999b3a65b8ef1643015c8b9c74a6"
   integrity sha512-JWSsetICoPbLhJQQfPpFE5Z+mY8+mp76/vmi7Xe78ihsiuf2oO8ySAXyMdc2jwCVYpvj5wGoIzKJUh0dq7Aa9w==
