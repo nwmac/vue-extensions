@@ -16,7 +16,7 @@ yarn lib
 yarn start
 ```
 
-This will build as a Vuwe library and serve the built library on localhost:8001
+This will build as a Vuwe library and serve the built library on localhost:8081
 
 ## Build the example app:
 
